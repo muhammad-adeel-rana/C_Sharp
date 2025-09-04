@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\EventsDelegatesAndLambdas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|d:\\c#\\eventsdelegatesandlambdas\\eventsdelegatesandlambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|solutionrelative:eventsdelegatesandlambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|d:\\c#\\eventsdelegatesandlambdas\\eventsdelegatesandlambdas\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|solutionrelative:eventsdelegatesandlambdas\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|d:\\c#\\eventsdelegatesandlambdas\\eventsdelegatesandlambdas\\worktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|solutionrelative:eventsdelegatesandlambdas\\worktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|d:\\c#\\eventsdelegatesandlambdas\\eventsdelegatesandlambdas\\workperforemedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697E83B3-A34C-4351-8E9B-3A36F2919A94}|EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas.csproj|solutionrelative:eventsdelegatesandlambdas\\workperforemedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkPerforemedEventArgs.cs",
+              "DocumentMoniker": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\WorkPerforemedEventArgs.cs",
+              "RelativeDocumentMoniker": "EventsDelegatesAndLambdas\\WorkPerforemedEventArgs.cs",
+              "ToolTip": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\WorkPerforemedEventArgs.cs",
+              "RelativeToolTip": "EventsDelegatesAndLambdas\\WorkPerforemedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:23:42.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\Worker.cs",
+              "RelativeDocumentMoniker": "EventsDelegatesAndLambdas\\Worker.cs",
+              "ToolTip": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\Worker.cs",
+              "RelativeToolTip": "EventsDelegatesAndLambdas\\Worker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T08:37:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkType.cs",
+              "DocumentMoniker": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\WorkType.cs",
+              "RelativeDocumentMoniker": "EventsDelegatesAndLambdas\\WorkType.cs",
+              "ToolTip": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\WorkType.cs",
+              "RelativeToolTip": "EventsDelegatesAndLambdas\\WorkType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:59:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\Program.cs",
+              "RelativeDocumentMoniker": "EventsDelegatesAndLambdas\\Program.cs",
+              "ToolTip": "D:\\C#\\EventsDelegatesAndLambdas\\EventsDelegatesAndLambdas\\Program.cs*",
+              "RelativeToolTip": "EventsDelegatesAndLambdas\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:55:37.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

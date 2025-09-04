@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DependancyinjectionInCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|d:\\c#\\dependancyinjectionincsharp\\dependancyinjectionincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|solutionrelative:dependancyinjectionincsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|d:\\c#\\dependancyinjectionincsharp\\dependancyinjectionincsharp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|solutionrelative:dependancyinjectionincsharp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|d:\\c#\\dependancyinjectionincsharp\\dependancyinjectionincsharp\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|solutionrelative:dependancyinjectionincsharp\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|d:\\c#\\dependancyinjectionincsharp\\dependancyinjectionincsharp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|solutionrelative:dependancyinjectionincsharp\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|d:\\c#\\dependancyinjectionincsharp\\dependancyinjectionincsharp\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D42BE0-439D-4908-BF16-69DEA5AF2216}|DependancyinjectionInCSharp\\DependancyinjectionInCSharp.csproj|solutionrelative:dependancyinjectionincsharp\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\IAccount.cs",
+              "RelativeDocumentMoniker": "DependancyinjectionInCSharp\\IAccount.cs",
+              "ToolTip": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\IAccount.cs",
+              "RelativeToolTip": "DependancyinjectionInCSharp\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:39:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\Account.cs",
+              "RelativeDocumentMoniker": "DependancyinjectionInCSharp\\Account.cs",
+              "ToolTip": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\Account.cs",
+              "RelativeToolTip": "DependancyinjectionInCSharp\\Account.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:00:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "DependancyinjectionInCSharp\\SavingAccount.cs",
+              "ToolTip": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\SavingAccount.cs",
+              "RelativeToolTip": "DependancyinjectionInCSharp\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:00:16.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "DependancyinjectionInCSharp\\CurrentAccount.cs",
+              "ToolTip": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\CurrentAccount.cs",
+              "RelativeToolTip": "DependancyinjectionInCSharp\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:59:23.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "DependancyinjectionInCSharp\\Program.cs",
+              "ToolTip": "D:\\C#\\DependancyinjectionInCSharp\\DependancyinjectionInCSharp\\Program.cs",
+              "RelativeToolTip": "DependancyinjectionInCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:58:38.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

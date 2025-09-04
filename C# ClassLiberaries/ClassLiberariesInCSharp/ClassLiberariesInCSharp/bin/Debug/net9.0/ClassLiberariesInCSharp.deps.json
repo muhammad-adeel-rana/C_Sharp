@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ClassLiberariesInCSharp/1.0.0": {
+        "dependencies": {
+          "Globomentics.Math": "1.0.0"
+        },
+        "runtime": {
+          "ClassLiberariesInCSharp.dll": {}
+        }
+      },
+      "Globomentics.Math/1.0.0": {
+        "runtime": {
+          "Globomentics.Math.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLiberariesInCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Globomentics.Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

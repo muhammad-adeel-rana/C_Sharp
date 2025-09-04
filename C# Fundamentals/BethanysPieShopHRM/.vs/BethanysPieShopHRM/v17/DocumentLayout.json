@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# Fundamentals\\BethanysPieShopHRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C62CC10-D96B-411A-BF24-D8BACC9B3D60}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethanyspieshophrm\\bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C62CC10-D96B-411A-BF24-D8BACC9B3D60}|BethanysPieShopHRM\\BethanysPieShopHRM.csproj|solutionrelative:bethanyspieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\BethanysPieShopHRM\\BethanysPieShopHRM\\Program.cs",
+              "RelativeToolTip": "BethanysPieShopHRM\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:56:58.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

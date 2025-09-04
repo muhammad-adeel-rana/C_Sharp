@@ -1,0 +1,14 @@
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\bin\Debug\net8.0\TaskParallelLiberary.exe
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\bin\Debug\net8.0\TaskParallelLiberary.deps.json
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\bin\Debug\net8.0\TaskParallelLiberary.runtimeconfig.json
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\bin\Debug\net8.0\TaskParallelLiberary.dll
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\bin\Debug\net8.0\TaskParallelLiberary.pdb
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.AssemblyInfoInputs.cache
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.AssemblyInfo.cs
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.csproj.CoreCompileInputs.cache
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.dll
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\refint\TaskParallelLiberary.dll
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.pdb
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\TaskParallelLiberary.genruntimeconfig.cache
+D:\C#\AsyncProgrammingCSharp\TaskParallelLiberary\obj\Debug\net8.0\ref\TaskParallelLiberary.dll

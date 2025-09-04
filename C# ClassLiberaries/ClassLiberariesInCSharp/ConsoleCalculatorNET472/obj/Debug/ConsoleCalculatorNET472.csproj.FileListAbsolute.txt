@@ -1,0 +1,11 @@
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\bin\Debug\ConsoleCalculatorNET472.exe.config
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\bin\Debug\ConsoleCalculatorNET472.exe
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\bin\Debug\ConsoleCalculatorNET472.pdb
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\bin\Debug\Globomentics.Math.dll
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\bin\Debug\Globomentics.Math.pdb
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\obj\Debug\ConsoleCalculatorNET472.csproj.AssemblyReference.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\obj\Debug\ConsoleCalculatorNET472.csproj.CoreCompileInputs.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\obj\Debug\ConsoleC.AD0136FC.Up2Date
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\obj\Debug\ConsoleCalculatorNET472.exe
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\obj\Debug\ConsoleCalculatorNET472.pdb
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET472\obj\Debug\ConsoleCalculatorNET472.exe.config

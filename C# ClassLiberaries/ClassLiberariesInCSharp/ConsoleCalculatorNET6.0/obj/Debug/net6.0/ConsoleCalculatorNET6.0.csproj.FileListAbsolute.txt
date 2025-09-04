@@ -1,0 +1,4 @@
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET6.0\obj\Debug\net6.0\ConsoleCalculatorNET6.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET6.0\obj\Debug\net6.0\ConsoleCalculatorNET6.0.AssemblyInfoInputs.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET6.0\obj\Debug\net6.0\ConsoleCalculatorNET6.0.AssemblyInfo.cs
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculatorNET6.0\obj\Debug\net6.0\ConsoleCalculatorNET6.0.csproj.CoreCompileInputs.cache

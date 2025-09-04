@@ -1,0 +1,14 @@
+D:\C#\Conditions and Iterations\Conditions and Iterations\bin\Debug\net8.0\Conditions and Iterations.exe
+D:\C#\Conditions and Iterations\Conditions and Iterations\bin\Debug\net8.0\Conditions and Iterations.deps.json
+D:\C#\Conditions and Iterations\Conditions and Iterations\bin\Debug\net8.0\Conditions and Iterations.runtimeconfig.json
+D:\C#\Conditions and Iterations\Conditions and Iterations\bin\Debug\net8.0\Conditions and Iterations.dll
+D:\C#\Conditions and Iterations\Conditions and Iterations\bin\Debug\net8.0\Conditions and Iterations.pdb
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.AssemblyInfoInputs.cache
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.AssemblyInfo.cs
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.csproj.CoreCompileInputs.cache
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.dll
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\refint\Conditions and Iterations.dll
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.pdb
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\Conditions and Iterations.genruntimeconfig.cache
+D:\C#\Conditions and Iterations\Conditions and Iterations\obj\Debug\net8.0\ref\Conditions and Iterations.dll

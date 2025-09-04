@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# Fundamentals\\C Sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\juniourresearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\juniourresearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFE97D1-61A8-469E-9423-982AD9C1FF83}|C# Fundamentals Basic\\C# Fundamentals Basic.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFE97D1-61A8-469E-9423-982AD9C1FF83}|C# Fundamentals Basic\\C# Fundamentals Basic.csproj|solutionrelative:c# fundamentals basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\employees.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6CD6B-3E75-4F9B-B9AC-1E20CF446A5A}|C#FundamentalsAdvanced.Tests\\C#FundamentalsAdvanced.Tests.csproj|d:\\c#\\c# fundamentals\\c sharp\\c#fundamentalsadvanced.tests\\employeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6CD6B-3E75-4F9B-B9AC-1E20CF446A5A}|C#FundamentalsAdvanced.Tests\\C#FundamentalsAdvanced.Tests.csproj|solutionrelative:c#fundamentalsadvanced.tests\\employeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9006156-52B8-40A1-BFC3-784B87B9BC25}|Classes And Objects\\C# Fundamentals Classes.csproj|d:\\c#\\c# fundamentals\\c sharp\\classes and objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9006156-52B8-40A1-BFC3-784B87B9BC25}|Classes And Objects\\C# Fundamentals Classes.csproj|solutionrelative:classes and objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeTests.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C#FundamentalsAdvanced.Tests\\EmployeeTests.cs",
+              "RelativeDocumentMoniker": "C#FundamentalsAdvanced.Tests\\EmployeeTests.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C#FundamentalsAdvanced.Tests\\EmployeeTests.cs",
+              "RelativeToolTip": "C#FundamentalsAdvanced.Tests\\EmployeeTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:01:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\Classes And Objects\\Program.cs",
+              "RelativeDocumentMoniker": "Classes And Objects\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\Classes And Objects\\Program.cs",
+              "RelativeToolTip": "Classes And Objects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:00:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employees.txt",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\employees.txt",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\employees.txt",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\employees.txt",
+              "RelativeToolTip": "C# Fundamentals Advanced\\employees.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-29T12:01:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Basic\\Program.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Basic\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Basic\\Program.cs",
+              "RelativeToolTip": "C# Fundamentals Basic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:58:07.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Manager.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\Manager.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Manager.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\Manager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:52:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JuniourResearcher.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\JuniourResearcher.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\JuniourResearcher.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\JuniourResearcher.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\JuniourResearcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:54:08.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\Employee.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Employee.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:48:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Program.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Program.cs*",
+              "RelativeToolTip": "C# Fundamentals Advanced\\Program.cs*",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAH0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:38:20.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

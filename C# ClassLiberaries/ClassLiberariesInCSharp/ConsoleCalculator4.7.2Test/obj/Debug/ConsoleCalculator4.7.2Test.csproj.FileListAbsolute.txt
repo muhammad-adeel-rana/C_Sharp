@@ -1,0 +1,9 @@
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\bin\Debug\ConsoleCalculator4.7.2Test.exe.config
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\bin\Debug\ConsoleCalculator4.7.2Test.exe
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\bin\Debug\ConsoleCalculator4.7.2Test.pdb
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\bin\Debug\Globomentics.Math.dll
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\obj\Debug\ConsoleCalculator4.7.2Test.csproj.AssemblyReference.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\obj\Debug\ConsoleCalculator4.7.2Test.csproj.CoreCompileInputs.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\obj\Debug\ConsoleC.4FF9C712.Up2Date
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\obj\Debug\ConsoleCalculator4.7.2Test.exe
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\ConsoleCalculator4.7.2Test\obj\Debug\ConsoleCalculator4.7.2Test.pdb

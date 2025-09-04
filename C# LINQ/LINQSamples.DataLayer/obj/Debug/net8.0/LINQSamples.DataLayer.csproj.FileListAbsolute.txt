@@ -1,0 +1,11 @@
+D:\C#\C# LINQ\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.deps.json
+D:\C#\C# LINQ\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.dll
+D:\C#\C# LINQ\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.pdb
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.AssemblyInfoInputs.cache
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.AssemblyInfo.cs
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.dll
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\refint\LINQSamples.DataLayer.dll
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.pdb
+D:\C#\C# LINQ\LINQSamples.DataLayer\obj\Debug\net8.0\ref\LINQSamples.DataLayer.dll

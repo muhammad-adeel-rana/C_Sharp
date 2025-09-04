@@ -1,0 +1,14 @@
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.AssemblyInfoInputs.cache
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.AssemblyInfo.cs
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\bin\Debug\net9.0\BethanysPieShop.InventoryManagement.exe
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\bin\Debug\net9.0\BethanysPieShop.InventoryManagement.deps.json
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\bin\Debug\net9.0\BethanysPieShop.InventoryManagement.runtimeconfig.json
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\bin\Debug\net9.0\BethanysPieShop.InventoryManagement.dll
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\bin\Debug\net9.0\BethanysPieShop.InventoryManagement.pdb
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.dll
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\refint\BethanysPieShop.InventoryManagement.dll
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.pdb
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\BethanysPieShop.InventoryManagement.genruntimeconfig.cache
+D:\C#\C# Fundamentals\CSharpObjectOrientedProgramming\BethanysPieShop.InventoryManagement\obj\Debug\net9.0\ref\BethanysPieShop.InventoryManagement.dll

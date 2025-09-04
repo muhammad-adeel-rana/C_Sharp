@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net461;net472;net9.0;netstandard2.0;</TargetFrameworks>
+    <Authors>Globomentics</Authors>
+    <Description>Contains math related functions.</Description>
+    <PackageProjectUrl>https://Prularsight.com</PackageProjectUrl>
+    <PackageReleaseNotes>This version add a new Hex display feature.</PackageReleaseNotes>
+    <PackageLicenseExpression>OPSD</PackageLicenseExpression>
+  </PropertyGroup>
+
+	<PropertyGroup Condition=" '$(TargetFramework)' == 'net9.0'">
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="Globomentics.Math.Tests" />
+	</ItemGroup>
+
+</Project>

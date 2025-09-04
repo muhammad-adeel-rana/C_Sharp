@@ -1,0 +1,14 @@
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\bin\Debug\net8.0\EventsDelegatesAndLambdas.exe
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\bin\Debug\net8.0\EventsDelegatesAndLambdas.deps.json
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\bin\Debug\net8.0\EventsDelegatesAndLambdas.runtimeconfig.json
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\bin\Debug\net8.0\EventsDelegatesAndLambdas.dll
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\bin\Debug\net8.0\EventsDelegatesAndLambdas.pdb
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.AssemblyInfoInputs.cache
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.AssemblyInfo.cs
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.csproj.CoreCompileInputs.cache
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.dll
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\refint\EventsDelegatesAndLambdas.dll
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.pdb
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\EventsDelegatesAndLambdas.genruntimeconfig.cache
+D:\C#\EventsDelegatesAndLambdas\EventsDelegatesAndLambdas\obj\Debug\net8.0\ref\EventsDelegatesAndLambdas.dll

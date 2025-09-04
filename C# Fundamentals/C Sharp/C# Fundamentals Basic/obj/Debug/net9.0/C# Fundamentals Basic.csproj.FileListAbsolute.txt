@@ -1,0 +1,18 @@
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.AssemblyInfoInputs.cache
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.AssemblyInfo.cs
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.csproj.CoreCompileInputs.cache
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\C# Fundamentals Basic.exe
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\C# Fundamentals Basic.deps.json
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\C# Fundamentals Basic.runtimeconfig.json
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\C# Fundamentals Basic.dll
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\C# Fundamentals Basic.pdb
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\Methods.dll
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\bin\Debug\net9.0\Methods.pdb
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.csproj.AssemblyReference.cache
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Funda.C392CE29.Up2Date
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.dll
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\refint\C# Fundamentals Basic.dll
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.pdb
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\C# Fundamentals Basic.genruntimeconfig.cache
+D:\C#\C# Fundamentals\C Sharp\C# Fundamentals Basic\obj\Debug\net9.0\ref\C# Fundamentals Basic.dll

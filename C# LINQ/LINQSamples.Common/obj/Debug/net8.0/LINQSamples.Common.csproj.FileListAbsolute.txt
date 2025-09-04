@@ -1,0 +1,15 @@
+D:\C#\C# LINQ\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.Common.deps.json
+D:\C#\C# LINQ\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.Common.dll
+D:\C#\C# LINQ\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.Common.pdb
+D:\C#\C# LINQ\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.DataLayer.dll
+D:\C#\C# LINQ\LINQSamples.Common\bin\Debug\net8.0\LINQSamples.DataLayer.pdb
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.csproj.AssemblyReference.cache
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.AssemblyInfoInputs.cache
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.AssemblyInfo.cs
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.csproj.CoreCompileInputs.cache
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamp.74841043.Up2Date
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.dll
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\refint\LINQSamples.Common.dll
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\LINQSamples.Common.pdb
+D:\C#\C# LINQ\LINQSamples.Common\obj\Debug\net8.0\ref\LINQSamples.Common.dll

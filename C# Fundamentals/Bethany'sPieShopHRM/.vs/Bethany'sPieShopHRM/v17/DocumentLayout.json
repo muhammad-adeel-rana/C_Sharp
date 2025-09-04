@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethany\u0027spieshophrm\\bethany\u0027spieshophrm\\accounting\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|solutionrelative:bethany\u0027spieshophrm\\accounting\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethany\u0027spieshophrm\\bethany\u0027spieshophrm\\accounting\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|solutionrelative:bethany\u0027spieshophrm\\accounting\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethany\u0027spieshophrm\\bethany\u0027spieshophrm\\hr\\worktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|solutionrelative:bethany\u0027spieshophrm\\hr\\worktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethany\u0027spieshophrm\\bethany\u0027spieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|solutionrelative:bethany\u0027spieshophrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethany\u0027spieshophrm\\bethany\u0027spieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|solutionrelative:bethany\u0027spieshophrm\\hr\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|d:\\c#\\c# fundamentals\\bethany\u0027spieshophrm\\bethany\u0027spieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DAC609-9387-4CEB-840F-C12AB2FCAB2A}|Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM.csproj|solutionrelative:bethany\u0027spieshophrm\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\Accounting\\Customer.cs",
+              "RelativeDocumentMoniker": "Bethany\u0027sPieShopHRM\\Accounting\\Customer.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\Accounting\\Customer.cs",
+              "RelativeToolTip": "Bethany\u0027sPieShopHRM\\Accounting\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:50:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\Accounting\\Account.cs",
+              "RelativeDocumentMoniker": "Bethany\u0027sPieShopHRM\\Accounting\\Account.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\Accounting\\Account.cs",
+              "RelativeToolTip": "Bethany\u0027sPieShopHRM\\Accounting\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:50:27.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkType.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\HR\\WorkType.cs",
+              "RelativeDocumentMoniker": "Bethany\u0027sPieShopHRM\\HR\\WorkType.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\HR\\WorkType.cs",
+              "RelativeToolTip": "Bethany\u0027sPieShopHRM\\HR\\WorkType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:33:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\HR\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "Bethany\u0027sPieShopHRM\\HR\\EmployeeType.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\HR\\EmployeeType.cs",
+              "RelativeToolTip": "Bethany\u0027sPieShopHRM\\HR\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:39:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\Program.cs",
+              "RelativeDocumentMoniker": "Bethany\u0027sPieShopHRM\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\Program.cs",
+              "RelativeToolTip": "Bethany\u0027sPieShopHRM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:09:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "Bethany\u0027sPieShopHRM\\HR\\Employee.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\Bethany\u0027sPieShopHRM\\Bethany\u0027sPieShopHRM\\HR\\Employee.cs",
+              "RelativeToolTip": "Bethany\u0027sPieShopHRM\\HR\\Employee.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:12:12.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

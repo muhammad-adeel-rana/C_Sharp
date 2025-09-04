@@ -1,0 +1,14 @@
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\bin\Debug\net8.0\DependancyinjectionInCSharp.exe
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\bin\Debug\net8.0\DependancyinjectionInCSharp.deps.json
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\bin\Debug\net8.0\DependancyinjectionInCSharp.runtimeconfig.json
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\bin\Debug\net8.0\DependancyinjectionInCSharp.dll
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\bin\Debug\net8.0\DependancyinjectionInCSharp.pdb
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.AssemblyInfoInputs.cache
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.AssemblyInfo.cs
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.csproj.CoreCompileInputs.cache
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.dll
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\refint\DependancyinjectionInCSharp.dll
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.pdb
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\DependancyinjectionInCSharp.genruntimeconfig.cache
+D:\C#\DependancyinjectionInCSharp\DependancyinjectionInCSharp\obj\Debug\net8.0\ref\DependancyinjectionInCSharp.dll

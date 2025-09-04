@@ -1,0 +1,9 @@
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\bin\Debug\net472\Globomentics.Math.dll
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\bin\Debug\net472\Globomentics.Math.pdb
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.csproj.AssemblyReference.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.AssemblyInfoInputs.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.AssemblyInfo.cs
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.csproj.CoreCompileInputs.cache
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.dll
+D:\C#\C# ClassLiberaries\ClassLiberariesInCSharp\Globomentics.Math\obj\Debug\net472\Globomentics.Math.pdb

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# Fundamentals\\C Sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\researcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\hr\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\hr\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\account\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\account\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\utitilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\utitilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|d:\\c#\\c# fundamentals\\c sharp\\c# fundamentals advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB51D3-2628-4BEE-806F-9E6FF3ABB191}|C# Fundamentals Advanced\\C# Fundamentals Advanced.csproj|solutionrelative:c# fundamentals advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreManager.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\StoreManager.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\StoreManager.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\StoreManager.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\StoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:41.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Researcher.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Researcher.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\Researcher.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Researcher.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\Researcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:39.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Employee.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\Employee.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Employee.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:27.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Address.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\HR\\Address.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\HR\\Address.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\HR\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:26.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Account\\Customer.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\Account\\Customer.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Account\\Customer.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\Account\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Account\\Account.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\Account\\Account.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Account\\Account.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\Account\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utitilities.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Utitilities.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\Utitilities.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Utitilities.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\Utitilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:09.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Program.cs",
+              "RelativeDocumentMoniker": "C# Fundamentals Advanced\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Fundamentals\\C Sharp\\C# Fundamentals Advanced\\Program.cs",
+              "RelativeToolTip": "C# Fundamentals Advanced\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:47:02.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#\C# Fundamentals\Strings\Strings\bin\Debug\net8.0\Strings.exe
+D:\C#\C# Fundamentals\Strings\Strings\bin\Debug\net8.0\Strings.deps.json
+D:\C#\C# Fundamentals\Strings\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+D:\C#\C# Fundamentals\Strings\Strings\bin\Debug\net8.0\Strings.dll
+D:\C#\C# Fundamentals\Strings\Strings\bin\Debug\net8.0\Strings.pdb
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.dll
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\refint\Strings.dll
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.pdb
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+D:\C#\C# Fundamentals\Strings\Strings\obj\Debug\net8.0\ref\Strings.dll

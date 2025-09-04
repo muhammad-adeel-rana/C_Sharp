@@ -1,0 +1,14 @@
+D:\C#\hello_csharp\hello_csharp\bin\Debug\net8.0\hello_csharp.exe
+D:\C#\hello_csharp\hello_csharp\bin\Debug\net8.0\hello_csharp.deps.json
+D:\C#\hello_csharp\hello_csharp\bin\Debug\net8.0\hello_csharp.runtimeconfig.json
+D:\C#\hello_csharp\hello_csharp\bin\Debug\net8.0\hello_csharp.dll
+D:\C#\hello_csharp\hello_csharp\bin\Debug\net8.0\hello_csharp.pdb
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.AssemblyInfoInputs.cache
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.AssemblyInfo.cs
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.csproj.CoreCompileInputs.cache
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.dll
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\refint\hello_csharp.dll
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.pdb
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\hello_csharp.genruntimeconfig.cache
+D:\C#\hello_csharp\hello_csharp\obj\Debug\net8.0\ref\hello_csharp.dll

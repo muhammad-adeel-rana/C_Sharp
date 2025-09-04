@@ -1,0 +1,14 @@
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\bin\Debug\net9.0\Classes And Objects.exe
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\bin\Debug\net9.0\Classes And Objects.deps.json
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\bin\Debug\net9.0\Classes And Objects.runtimeconfig.json
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\bin\Debug\net9.0\Classes And Objects.dll
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\bin\Debug\net9.0\Classes And Objects.pdb
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.AssemblyInfoInputs.cache
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.AssemblyInfo.cs
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.csproj.CoreCompileInputs.cache
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.dll
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\refint\Classes And Objects.dll
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.pdb
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\Classes And Objects.genruntimeconfig.cache
+D:\C#\C# Fundamentals\C Sharp\Classes And Objects\obj\Debug\net9.0\ref\Classes And Objects.dll

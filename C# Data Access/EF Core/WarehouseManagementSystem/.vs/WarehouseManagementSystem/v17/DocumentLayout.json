@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|d:\\c#\\c# data access\\ef core\\warehousemanagementsystem\\warehousemanagementsystem\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|d:\\c#\\c# data access\\ef core\\warehousemanagementsystem\\warehousemanagementsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|d:\\c#\\c# data access\\ef core\\warehousemanagementsystem\\warehousemanagementsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|d:\\c#\\c# data access\\ef core\\warehousemanagementsystem\\warehousemanagementsystem\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|d:\\c#\\c# data access\\ef core\\warehousemanagementsystem\\warehousemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A4A2D5-A6BF-4B33-AA11-B6E50F564372}|WarehouseManagementSystem\\WarehouseManagementSystem.csproj|solutionrelative:warehousemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineItem.cs",
+              "DocumentMoniker": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\LineItem.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\LineItem.cs",
+              "ToolTip": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\LineItem.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\LineItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:48:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\Item.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Item.cs",
+              "ToolTip": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\Item.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Item.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:48:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Customer.cs",
+              "ToolTip": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\Customer.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Customer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:48:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalData.cs",
+              "DocumentMoniker": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\LocalData.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\LocalData.cs",
+              "ToolTip": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\LocalData.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\LocalData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:47:55.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseManagementSystem\\Program.cs",
+              "ToolTip": "D:\\C#\\C# Data Access\\EF Core\\WarehouseManagementSystem\\WarehouseManagementSystem\\Program.cs",
+              "RelativeToolTip": "WarehouseManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:46:21.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

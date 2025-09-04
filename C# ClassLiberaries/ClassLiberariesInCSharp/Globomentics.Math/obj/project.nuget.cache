@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jTAA32vFf3g=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\C# ClassLiberaries\\ClassLiberariesInCSharp\\Globomentics.Math\\Globomentics.Math.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muhammad.adeel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\muhammad.adeel\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\muhammad.adeel\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512",
+    "C:\\Users\\muhammad.adeel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# LINQ\\05-Where\\Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|d:\\c#\\c# linq\\05-where\\start\\samplesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|solutionrelative:samplesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|d:\\c#\\c# linq\\05-where\\start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53315A59-FEE2-45CD-BBBA-7E6065557112}|..\\..\\LINQSamples.Common\\LINQSamples.Common.csproj|d:\\c#\\c# linq\\linqsamples.common\\helperclasses\\producthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductHelper.cs",
+              "DocumentMoniker": "D:\\C#\\C# LINQ\\LINQSamples.Common\\HelperClasses\\ProductHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\LINQSamples.Common\\HelperClasses\\ProductHelper.cs",
+              "ToolTip": "D:\\C#\\C# LINQ\\LINQSamples.Common\\HelperClasses\\ProductHelper.cs",
+              "RelativeToolTip": "..\\..\\LINQSamples.Common\\HelperClasses\\ProductHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:08:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\C# LINQ\\05-Where\\Start\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\C# LINQ\\05-Where\\Start\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:56:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SamplesViewModel.cs",
+              "DocumentMoniker": "D:\\C#\\C# LINQ\\05-Where\\Start\\SamplesViewModel.cs",
+              "RelativeDocumentMoniker": "SamplesViewModel.cs",
+              "ToolTip": "D:\\C#\\C# LINQ\\05-Where\\Start\\SamplesViewModel.cs",
+              "RelativeToolTip": "SamplesViewModel.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwGUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T12:56:12.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.AssemblyInfoInputs.cache
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.AssemblyInfo.cs
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.csproj.CoreCompileInputs.cache
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\bin\Debug\net8.0\Bethany'sPieShopHRM.exe
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\bin\Debug\net8.0\Bethany'sPieShopHRM.deps.json
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\bin\Debug\net8.0\Bethany'sPieShopHRM.runtimeconfig.json
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\bin\Debug\net8.0\Bethany'sPieShopHRM.dll
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\bin\Debug\net8.0\Bethany'sPieShopHRM.pdb
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.dll
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\refint\Bethany'sPieShopHRM.dll
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.pdb
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\Bethany'sPieShopHRM.genruntimeconfig.cache
+D:\C#\C# Fundamentals\Bethany'sPieShopHRM\Bethany'sPieShopHRM\obj\Debug\net8.0\ref\Bethany'sPieShopHRM.dll
